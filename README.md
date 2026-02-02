@@ -5,7 +5,9 @@ This project is a secure backend authentication system built using Spring Boot a
 It demonstrates how modern backend applications handle user login, password security, and protected API access in a stateless manner.
 The application validates user credentials from a MySQL database, encrypts passwords using BCrypt, generates JWT tokens upon successful authentication, 
 and uses those tokens to authorize access to secured endpoints.
+We used HTML and CSS to build a simple and user-friendly login and registration interface that connects with the Spring Boot authentication APIs.
 This project is designed to follow industry-standard security practices and is suitable for real-world backend systems.
+
 
 
 🎯Key Objectives
@@ -32,6 +34,8 @@ JWT (JSON Web Token)
 Spring Data JPA
 Hibernate
 MySQL
+Html
+Css
 BCrypt Password Encoder
 Postman (API Testing)
 
